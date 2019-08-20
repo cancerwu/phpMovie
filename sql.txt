@@ -1,0 +1,9 @@
+create table admin(
+id int auto_increment,
+user_name varchar(20) not null,
+pass_word varchar(20) not null,
+primary key(id)
+)charset=utf8;
+
+insert into admin 
+values(default,'admin','admin');

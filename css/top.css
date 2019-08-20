@@ -1,0 +1,39 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+}
+.top{
+    height: 60px;
+    width: 100%;
+    background: #177ec1;
+}
+.top .container{
+    margin: 0 60px;
+    overflow: hidden;
+}
+.top .container .left{
+    width: 300px;
+    height: 43px;
+    padding-top: 19px;
+    color: #FFFFFF;
+    font-size: 24px;
+    float: left;
+}
+.top .container .right{
+    overflow: hidden;
+    width: 124px;
+    padding-top: 19px;
+    float: right;
+}
+.top .container .right span{
+    font-size: 16px;
+    color: #fff;
+}
+.top .container .right .l{
+    float: left;
+}
+.top .container .right .r{
+    float: right;
+}
+.color{color:#FFFFFF; text-decoration:none;font-weight:bold;}

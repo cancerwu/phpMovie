@@ -1,0 +1,25 @@
+@charset "utf-8";
+*{font-size:9pt;border:0;margin:0;padding:0;}
+body{font-family:'微软雅黑'; margin:0 auto;}
+ul,li{ display:block;margin:0;padding:0;list-style:none;}
+.seachform{ height:42px; margin:20px}
+.seachform li{ float:left; margin-right:15px;}
+.scinput{width:180px; height:32px; line-height:32px; border-top:solid 1px #a7b5bc; border-left:solid 1px #a7b5bc; border-right:solid 1px #ced9df; border-bottom:solid 1px #ced9df; text-indent:10px; color:#999;}
+.scbtn{width:85px;height:35px;
+    background: #000000;056dae no-repeat center; font-size:12px;color:#393D49; cursor:pointer;border-radius:3px; }
+.select{border:none;height:32px; border-top:solid 1px #a7b5bc; border-left:solid 1px #a7b5bc; border-right:solid 1px #ced9df; border-bottom:solid 1px #ced9df;padding:5px;}
+
+
+.tablelist{border:solid 1px #cbcbcb; width:100%; clear:both;}
+.tablelist th{background:#01AAED; height:34px; line-height:34px; border-bottom:solid 1px #b6cad2; text-indent:11px; text-align:left;}
+.tablelist td{line-height:35px; text-indent:11px; border-right: dotted 1px #c7c7c7;}
+.tablelink{color:#056dae;}
+.tablelist tbody tr.odd{background:#f5f8fa;}
+.tablelist tbody tr:hover{background:#e5ebee;}
+
+
+.imgtd{text-indent:0;}
+
+.rightinfo{padding:8px;}
+.table{border-collapse:collapse;border-spacing: 0;}
+
